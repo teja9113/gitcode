@@ -1,0 +1,3 @@
+robocopy "C:\Users\Sai teja\Desktop\movies" "D:\movies1\movies" /sec/move /e
+
+mklink "SOURCE" "DESTINATION" /j
